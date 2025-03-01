@@ -1,0 +1,6 @@
+README.md
+imcsh
+imcsh.c
+imcsh.o
+makefile
+output.txt
